@@ -9,6 +9,6 @@ public class singleton {
     }
 
     public void mensaje(){
-        System.out.println("Conexion a la Database Exitosa");
+        System.out.println("Database Conection Success");
     }
 }
